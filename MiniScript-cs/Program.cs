@@ -135,7 +135,7 @@ class MainClass {
 		UnitTest.Run();
 
 		Print("Running test suite.\n");
-		RunTestSuite("../../../TestSuite.txt");
+		RunTestSuite("../TestSuite.txt");
 
 		Print("\n");
 
